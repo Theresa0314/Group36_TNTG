@@ -1,5 +1,5 @@
 # Group36_TNTG
-TNTG, The Next Telegram is a simple messenger application that allows users to interact with other users using the application. Accomplished feature can be seen below;
+TNTG, The Next Telegram is a simple messenger application that allows users to interact with other users using the application. Accomplished features can be seen below;
 
 
 Accomplished Features:

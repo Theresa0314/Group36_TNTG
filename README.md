@@ -18,5 +18,5 @@ Accomplished Features:
 To Accomplish:
 1. Chat System
 2. Offline/Online Indicator
-3. Seen/Unseen Indicator
+3. Seen Indicator
 4. View Other Profile

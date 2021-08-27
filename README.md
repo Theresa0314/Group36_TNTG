@@ -11,8 +11,7 @@ Accomplished Features:
 6. Edit User Profile
 7. View All Users
 8. Search Users
-9. Edit User Profile
-10. Add Profile Photo
+9. Add Profile Photo
 
 
 To Accomplish:

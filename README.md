@@ -20,3 +20,4 @@ To Accomplish:
 2. Offline/Online Indicator
 3. Seen Indicator
 4. View Other Profile
+5. Notification

@@ -24,7 +24,6 @@ import com.mobdeve.group36.Model.DatabaseModel;
 import com.mobdeve.group36.Model.LoginModel;
 import com.mobdeve.group36.R;
 import com.mobdeve.group36.views.adapters.MessageAdapter;
-import com.mobdeve.group36.views.fragments.APIService;
 import com.mobdeve.group36.views.fragments.GetProfile;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
@@ -61,7 +60,6 @@ public class MessageActivity extends AppCompatActivity {
     Context context;
     GetProfile bottomSheetProfileDetailUser;
 
-    APIService apiService;
     boolean notify = false;
 
 
@@ -181,7 +179,6 @@ public class MessageActivity extends AppCompatActivity {
                 .get(LoginModel.class);
         context = MessageActivity.this;
 
-        apiService = Client.getClient("https://fcm.googleapis.com/").create(APIService.class);
 
         iv_user_status_message_view = findViewById(R.id.iv_user_status_message_view);
         iv_profile_image = findViewById(R.id.iv_user_image);
